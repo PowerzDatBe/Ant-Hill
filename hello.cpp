@@ -8,6 +8,8 @@ int main() {
 		cout << "Hello\n";
 		cout << "World\n";
 	}
+
+	cout << "Goodbye" << endl;
 	
 	return 0;
 }
