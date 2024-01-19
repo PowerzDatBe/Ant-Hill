@@ -10,6 +10,8 @@ int main() {
 	}
 
 	cout << "Goodbye" << endl;
+	cout << "Really, goodbye" << endl;
+	
 	
 	return 0;
 }
